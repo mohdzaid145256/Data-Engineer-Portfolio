@@ -16,12 +16,12 @@
 ## 📂 Project Highlights  
 | Project | Technologies | Demo |  
 |---------|-------------|------|  
-| [Smart Mood Detection](projects/mood-detection) | Python, CNN, OpenCV |   
+ Smart Mood Detection](projects/mood-detection | Python, CNN, OpenCV |   
 | [COVID-19 Dashboard](projects/covid-analysis) | Pandas, Tableau, Matplotlib | 
 | [ZCODE Email Platform](projects/zcode-email) | HTML/CSS, Spline | 
 
 
 ## 📫 Contact  
-[![LinkedIn](https://linkedin.com/in/mohdzaid123)  
-[![GitHub](https://github.com/mohdzaid145256)  
+Linkedin: https://linkedin.com/in/mohdzaid123 
+Github: (https://github.com/mohdzaid145256) 
 📧 mohdzaid4919@gmail.com  
