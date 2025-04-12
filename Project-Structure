@@ -1,0 +1,28 @@
+/data-engineer-portfolio  
+├── index.html  
+├── css/  
+│   └── style.css  
+├── js/  
+│   └── main.js  
+├── assets/  
+│   ├── images/  
+│   │    
+│   │   ├── mood-detection-demo.gif  
+│   │   ├── covid-dashboard.png  
+│   │   
+│   ├── docs/  
+│   │   └── resume.pdf  
+│   └── icons/  
+│       ├── linkedin.svg  
+│       ├── github.svg  
+│       └── email.svg  
+├── projects/  
+│   ├── mood-detection/  
+│   │   ├── README.md  
+│   │   └── code-snippets/  
+│   ├── covid-analysis/  
+│   │   ├── README.md  
+│   │   └── datasets/  
+│   └── zcode-email/  
+│       └── README.md  
+└── README.md  
